@@ -38,11 +38,6 @@ cd Riwi_Modulo_1
 ```
 
 3. Ejecuta el script en consola:
-
-```bash
-python calculadora_descuento.py
-```
-
 4. Sigue las instrucciones que aparecen en pantalla.
 
 ---
