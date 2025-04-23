@@ -33,7 +33,7 @@ Este es un pequeño script en Python que simula el costo total de una compra en 
 2. Clona este repositorio o descarga el archivo `.py`.
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/andresfelipe07b/Riwi-Modulo-1.git
 cd tu_repositorio
 ```
 
