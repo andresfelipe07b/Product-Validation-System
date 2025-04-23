@@ -34,7 +34,7 @@ Este es un pequeño script en Python que simula el costo total de una compra en 
 
 ```bash
 git clone https://github.com/andresfelipe07b/Riwi-Modulo-1.git
-cd tu_repositorio
+cd Riwi_Modulo_1
 ```
 
 3. Ejecuta el script en consola:
