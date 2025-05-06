@@ -1,5 +1,10 @@
 # 🧮 Sistema de validación de productos
 
+
+## 📘 English version
+[Click here to see English version](README.en.md)
+
+---
 Este es un pequeño script en Python que simula el costo total de una compra en una tienda, incluyendo el cálculo del subtotal, descuento aplicado y total a pagar. Está pensado como una herramienta de práctica o como base para desarrollar un sistema de punto de venta (POS) sencillo.
 
 ---
@@ -33,8 +38,8 @@ Este es un pequeño script en Python que simula el costo total de una compra en 
 2. Clona este repositorio o descarga el archivo `.py`.
 
 ```bash
-git clone https://github.com/andresfelipe07b/Riwi-Modulo-1.git
-cd Riwi_Modulo_1
+git clone https://github.com/andresfelipe07b/Product-Validation-System
+cd Product-Validation-System
 ```
 
 3. Ejecuta el script en consola:
@@ -73,5 +78,3 @@ Monto descuento:  $24.000,00
 TOTAL A PAGAR:    $216.000,00
 ==============================
 ```
-
-
